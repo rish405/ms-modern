@@ -23,6 +23,14 @@
   "keywords": ["ms", "duration", "parse", "format", "time", "minimal"],
   "author": "ms-modern",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rish405/ms-modern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rish405/ms-modern/issues"
+  },
+  "homepage": "https://github.com/rish405/ms-modern#readme",
   "devDependencies": {
     "tsup": "^8.0.1",
     "typescript": "^5.3.3",
